@@ -244,3 +244,6 @@ This repository serves as the official landing page for Cartoonist. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cartoonist today!**
+
+---
+**Last updated:** 2026-09-11 13:58:39 UTC
