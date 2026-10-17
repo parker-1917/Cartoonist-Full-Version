@@ -246,4 +246,4 @@ This repository serves as the official landing page for Cartoonist. The software
 **Get the most recent version of Cartoonist today!**
 
 ---
-**Last updated:** 2026-10-17 11:49:57 UTC
+**Last updated:** 2026-10-17 14:37:10 UTC
